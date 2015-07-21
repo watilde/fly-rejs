@@ -8,7 +8,7 @@
   "files": [
     "index.js"
   ],
-  "keywords":[
+  "keywords": [
     "fly",
     "fly-plugin",
     "rejs"
@@ -27,7 +27,7 @@
     "url": "http://github.com/watilde"
   },
   "dependencies": {
-
+    "rejs": "0.0.4"
   },
   "devDependencies": {
     "eslint": "^0.21.2",
